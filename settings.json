@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "play-lotusmc.aternos.me",
+    "port": 60168,
     "version": "",
     "try-creative": false
   },
